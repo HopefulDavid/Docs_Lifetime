@@ -1,0 +1,118 @@
+{
+  "source_base_path": "/home/runner/work/Docs_Lifetime/Docs_Lifetime",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "drink/coffee.md",
+      "output": {
+        ".html": {
+          "relative_path": "drink/coffee.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "drink/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "drink/toc.json"
+        },
+        ".html": {
+          "relative_path": "drink/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "food/america.md",
+      "output": {
+        ".html": {
+          "relative_path": "food/america.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "food/czech.md",
+      "output": {
+        ".html": {
+          "relative_path": "food/czech.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "food/greece.md",
+      "output": {
+        ".html": {
+          "relative_path": "food/greece.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "food/mexico.md",
+      "output": {
+        ".html": {
+          "relative_path": "food/mexico.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "food/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "food/toc.json"
+        },
+        ".html": {
+          "relative_path": "food/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
