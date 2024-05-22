@@ -12,10 +12,20 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "drink/coffee.md",
+      "source_relative_path": "drink/Coffee/frenchPress.md",
       "output": {
         ".html": {
-          "relative_path": "drink/coffee.html"
+          "relative_path": "drink/Coffee/frenchPress.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "drink/Coffee/vietnamCoffee.md",
+      "output": {
+        ".html": {
+          "relative_path": "drink/Coffee/vietnamCoffee.html"
         }
       },
       "version": ""
@@ -35,40 +45,40 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "food/america.md",
+      "source_relative_path": "food/America/steak.md",
       "output": {
         ".html": {
-          "relative_path": "food/america.html"
+          "relative_path": "food/America/steak.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "food/czech.md",
+      "source_relative_path": "food/Czech/bourtGoulash.md",
       "output": {
         ".html": {
-          "relative_path": "food/czech.html"
+          "relative_path": "food/Czech/bourtGoulash.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "food/greece.md",
+      "source_relative_path": "food/Greece/greekMix.md",
       "output": {
         ".html": {
-          "relative_path": "food/greece.html"
+          "relative_path": "food/Greece/greekMix.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "food/mexico.md",
+      "source_relative_path": "food/Mexico/TortillasWithPorkAndBeefAndSalsa.md",
       "output": {
         ".html": {
-          "relative_path": "food/mexico.html"
+          "relative_path": "food/Mexico/TortillasWithPorkAndBeefAndSalsa.html"
         }
       },
       "version": ""
