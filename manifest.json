@@ -107,6 +107,29 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "job/contractTerminate/pensionRecord.md",
+      "output": {
+        ".html": {
+          "relative_path": "job/contractTerminate/pensionRecord.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "job/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "job/toc.json"
+        },
+        ".html": {
+          "relative_path": "job/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {

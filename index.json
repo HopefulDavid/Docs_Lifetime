@@ -33,5 +33,10 @@
     "href": "index.html",
     "title": "This is the HOMEPAGE. | Život",
     "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  },
+  "job/contractTerminate/pensionRecord.html": {
+    "href": "job/contractTerminate/pensionRecord.html",
+    "title": "| Život",
+    "keywords": "Evidenční list důchodového pojištění = IOLDP (Informativní osobní list důchodového pojištění) Pokud nedostanete od zaměstnavatele Sice byste měl dostávat kopie evidenčních listů, ale není to tak důležité. Important Důležité je, aby je zaměstnavatel odevzdával do evidence ČSSZ (Česká správa sociálního zabezpečení). Jsou zde dvě možnosti: Note Požádejte si o informativní osobní list důchodového pojištění, kde jsou všechny doby v evidenci ČSSZ uvedeny. Přes formulář ZOLDP (Žádost o informativní osobní list důchodového pojištění) Note Zajděte si na místně příslušnou OSSZ, kde náhledem do evidence ČSSZ zjistí, zda zaměstnavatel evidenční listy odevzdal. Více informací zde."
   }
 }
