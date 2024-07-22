@@ -34,11 +34,11 @@
       "type": "Toc",
       "source_relative_path": "drink/toc.yml",
       "output": {
-        ".json": {
-          "relative_path": "drink/toc.json"
-        },
         ".html": {
           "relative_path": "drink/toc.html"
+        },
+        ".json": {
+          "relative_path": "drink/toc.json"
         }
       },
       "version": ""
@@ -59,6 +59,16 @@
       "output": {
         ".html": {
           "relative_path": "food/Czech/bourtGoulash.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "food/Czech/mishaCuts.md",
+      "output": {
+        ".html": {
+          "relative_path": "food/Czech/mishaCuts.html"
         }
       },
       "version": ""
@@ -87,11 +97,11 @@
       "type": "Toc",
       "source_relative_path": "food/toc.yml",
       "output": {
-        ".json": {
-          "relative_path": "food/toc.json"
-        },
         ".html": {
           "relative_path": "food/toc.html"
+        },
+        ".json": {
+          "relative_path": "food/toc.json"
         }
       },
       "version": ""
@@ -120,11 +130,11 @@
       "type": "Toc",
       "source_relative_path": "job/toc.yml",
       "output": {
-        ".json": {
-          "relative_path": "job/toc.json"
-        },
         ".html": {
           "relative_path": "job/toc.html"
+        },
+        ".json": {
+          "relative_path": "job/toc.json"
         }
       },
       "version": ""
@@ -133,11 +143,11 @@
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
-        ".json": {
-          "relative_path": "toc.json"
-        },
         ".html": {
           "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
       "version": ""
