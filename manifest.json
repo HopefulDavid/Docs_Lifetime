@@ -22,6 +22,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "drink/Coffee/pumpkinSpice.md",
+      "output": {
+        ".html": {
+          "relative_path": "drink/Coffee/pumpkinSpice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "drink/Coffee/vietnamCoffee.md",
       "output": {
         ".html": {
@@ -34,11 +44,11 @@
       "type": "Toc",
       "source_relative_path": "drink/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "drink/toc.html"
-        },
         ".json": {
           "relative_path": "drink/toc.json"
+        },
+        ".html": {
+          "relative_path": "drink/toc.html"
         }
       },
       "version": ""
@@ -97,11 +107,11 @@
       "type": "Toc",
       "source_relative_path": "food/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "food/toc.html"
-        },
         ".json": {
           "relative_path": "food/toc.json"
+        },
+        ".html": {
+          "relative_path": "food/toc.html"
         }
       },
       "version": ""
@@ -130,11 +140,11 @@
       "type": "Toc",
       "source_relative_path": "job/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "job/toc.html"
-        },
         ".json": {
           "relative_path": "job/toc.json"
+        },
+        ".html": {
+          "relative_path": "job/toc.html"
         }
       },
       "version": ""
@@ -143,11 +153,11 @@
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "toc.html"
-        },
         ".json": {
           "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
         }
       },
       "version": ""
