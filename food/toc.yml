@@ -16,14 +16,12 @@
           href: Czech/burtGulas.md
         - name: Rajská omáčka
           href: Czech/rajskaOmacka.md
-    - name: Sladké
-      items:
-        - name: Míša řezy
-          href: Czech/misaRezy.md
-- name: Řecká jídla
+- name: Indická jídla
   items:
-    - name: Řecká směs
-      href: Greece/reckaSmes.md
+    - name: Slané
+      items:
+        - name: Kuřecí na kari s rýží
+          href: India/chickenCurryWithRice.md
 - name: Mexická jídla
   items:
     - name: Slané
