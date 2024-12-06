@@ -1,9 +1,15 @@
-- name: Americké jídla
+- name: Americká jídla
   items:
-    - name: Stejky
-      href: America/steak.md
+    - name: Slané
+      items:
+        - name: Stejky
+          href: America/steak.md
 - name: Česká jídla
   items:
+    - name: Sladké
+      items:
+        - name: Míša řezy
+          href: Czech/misaRezy.md
     - name: Slané
       items:
         - name: Buřtguláš
@@ -20,9 +26,19 @@
       href: Greece/reckaSmes.md
 - name: Mexická jídla
   items:
-    - name: Tortilly s vepřovo hovězím masem a salsou
-      href: Mexico/TortillySVeprovoHovezimMasemASalsou.md
+    - name: Slané
+      items:
+        - name: Tortilly s vepřovo hovězím masem a salsou
+          href: Mexico/TortillySVeprovoHovezimMasemASalsou.md
 - name: Portugalská jídla
   items:
-    - name: Pastéis de Nata
-      href: Portugal/pasteisDeNata.md
+    - name: Sladké
+      items:
+        - name: Pastéis de Nata
+          href: Portugal/pasteisDeNata.md
+- name: Řecká jídla
+  items:
+    - name: Slané
+      items:
+        - name: Řecká směs
+          href: Greece/reckaSmes.md
