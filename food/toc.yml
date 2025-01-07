@@ -4,6 +4,12 @@
       items:
         - name: Stejky
           href: America/steak.md
+- name: Asijská jídla
+  items:
+    - name: Slané
+      items:
+        - name: Kokosové kuře
+          href: Asia/coconut_chicken.md
 - name: Česká jídla
   items:
     - name: Sladké
