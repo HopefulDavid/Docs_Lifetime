@@ -1,6 +1,8 @@
 Changelog
 ## 2025-01-07
+  - 🎨 Enhance ingredient list formatting. (coconut-chicken)
   - ✨ Add coconut chicken recipe under Asian dishes. (food)
+  - 🔧 update changelog
 ## 2024-12-29
   - 🔧 Update .NET version to 8.x in workflow config.
   - 🔧 update changelog
