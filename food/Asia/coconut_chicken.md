@@ -5,14 +5,14 @@
 
 - Rýže
 - Máslo
-- 1 Cibule
-- 500g kuřecích prsou
-- 200g mrkve
-- 200g zelené papriky
-- 2 lžíce kari koření
-- 150g bílé cibule (nakrájet najemno)
-- 400g drcených loupaných rajčat v plechovce
-- 400ml kokosového mléka
+- <span style="color:#228B22;">1</span> cibule
+- <span style="color:#228B22;">500g</span> kuřečí prsa
+- <span style="color:#228B22;">200g</span> mrkev
+- <span style="color:#228B22;">200g</span> zelené papriky
+- <span style="color:#228B22;">2 lžíce</span> kari koření
+- <span style="color:#228B22;">150g</span> bílé cibule (nakrájet najemno)
+- <span style="color:#228B22;">400g</span> drcených loupaných rajčat v plechovce
+- <span style="color:#228B22;">400ml</span> kokosového mléka
 - sůl
 - pepř
 </details>
