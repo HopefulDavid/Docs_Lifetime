@@ -40,6 +40,13 @@ jobs:
           git commit -m "chore: update changelog"
           git push origin main
 
+      - name: Read index.md content
+        id: read_index_md
+        run: |
+          echo "index<<EOF" >> $GITHUB_ENV
+          cat index.md >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
       - name: Send email with index.md content
         uses: dawidd6/action-send-mail@v4
         with:
@@ -55,7 +62,7 @@ jobs:
           html_body: |
             <p>Nové změny v dokumentaci jsou k dispozici. Podívejte se na ně <a href="https://hopefuldavid.github.io/Docs_Lifetime/">zde</a>.</p>
             <hr>
-            {{ index.md }}  
+            ${{ env.index }}  
 
       - run: dotnet tool update -g docfx
       - run: docfx docfx.json
