@@ -46,3 +46,6 @@
       items:
         - name: Řecká směs
           href: Greece/reckaSmes.md
+- name: Dipy
+    - name: Bylinka se sladkou paprikou
+      href: Dips/herbWithSweetPepper.md
