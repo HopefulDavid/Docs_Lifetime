@@ -1,7 +1,15 @@
 Changelog
+## 2025-01-13
+  - 🔨 Update file paths for main dish recipes (food/toc)
+  - ✨ Add Czech beef broth recipe and update table of contents (food)
+  - ✨ Add new dip recipe "Bylinka se sladkou paprikou" (food)
+  - 🎨 Update food categories and structure in TOC (food)
+  - 🔧 Update GitHub Actions to use latest versions
+  - ✨ Add email notification for documentation updates (workflow)
 ## 2025-01-07
   - 🎨 Enhance ingredient list formatting. (coconut-chicken)
   - ✨ Add coconut chicken recipe under Asian dishes. (food)
+  - 🔧 update changelog
   - 🔧 update changelog
 ## 2024-12-29
   - 🔧 Update .NET version to 8.x in workflow config.
