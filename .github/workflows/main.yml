@@ -48,3 +48,19 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site
+
+      - name: Send email with index.md content
+        uses: dawidd6/action-send-mail@v4
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Nové změny v dokumentaci"
+          to: "lucie.slavikova33@outlook.com, rslavikova9@seznam.cz"
+          convert_markdown: true
+          html_body: |
+            <p>Nové změny v dokumentaci jsou k dispozici. Podívejte se na ně <a href="https://hopefuldavid.github.io/Docs_Lifetime/">zde</a>.</p>
+            <hr>
+            {{ index.md }}
