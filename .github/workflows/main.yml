@@ -57,6 +57,7 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
+          from: "dslavik29@outlook.com"
           subject: "Nové změny v dokumentaci"
           to: "lucie.slavikova33@outlook.com, rslavikova9@seznam.cz"
           convert_markdown: true
