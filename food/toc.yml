@@ -1,3 +1,9 @@
+- name: Polévky
+  items:
+    - name: České polévky
+      items:
+        - name: Hovězí vývar
+          href: soups/czech/brothBeefSoup.md
 - name: Hlavní jídla
   items:
     - name: Česká jídla
