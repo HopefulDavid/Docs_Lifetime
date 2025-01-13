@@ -1,51 +1,54 @@
-- name: Americká jídla
+- name: Hlavní jídla
   items:
-    - name: Slané
+    - name: Česká jídla
       items:
-        - name: Stejky
-          href: America/steak.md
-- name: Asijská jídla
-  items:
-    - name: Slané
+        - name: Sladké
+          items:
+            - name: Míša řezy
+              href: Czech/misaRezy.md
+        - name: Slané
+          items:
+            - name: Buřtguláš
+              href: Czech/burtGulas.md
+            - name: Rajská omáčka
+              href: Czech/rajskaOmacka.md
+    - name: Americká jídla
       items:
-        - name: Kokosové kuře
-          href: Asia/coconut_chicken.md
-- name: Česká jídla
-  items:
-    - name: Sladké
+        - name: Slané
+          items:
+            - name: Stejky
+              href: America/steak.md
+    - name: Asijská jídla
       items:
-        - name: Míša řezy
-          href: Czech/misaRezy.md
-    - name: Slané
+        - name: Slané
+          items:
+            - name: Kokosové kuře
+              href: Asia/coconut_chicken.md
+    - name: Indická jídla
       items:
-        - name: Buřtguláš
-          href: Czech/burtGulas.md
-        - name: Rajská omáčka
-          href: Czech/rajskaOmacka.md
-- name: Indická jídla
-  items:
-    - name: Slané
+        - name: Slané
+          items:
+            - name: Kuřecí na kari s rýží
+              href: India/chickenCurryWithRice.md
+    - name: Mexická jídla
       items:
-        - name: Kuřecí na kari s rýží
-          href: India/chickenCurryWithRice.md
-- name: Mexická jídla
-  items:
-    - name: Slané
+        - name: Slané
+          items:
+            - name: Tortilly s vepřovo hovězím masem a salsou
+              href: Mexico/TortillySVeprovoHovezimMasemASalsou.md
+    - name: Portugalská jídla
       items:
-        - name: Tortilly s vepřovo hovězím masem a salsou
-          href: Mexico/TortillySVeprovoHovezimMasemASalsou.md
-- name: Portugalská jídla
-  items:
-    - name: Sladké
+        - name: Sladké
+          items:
+            - name: Pastéis de Nata
+              href: Portugal/pasteisDeNata.md
+    - name: Řecká jídla
       items:
-        - name: Pastéis de Nata
-          href: Portugal/pasteisDeNata.md
-- name: Řecká jídla
-  items:
-    - name: Slané
-      items:
-        - name: Řecká směs
-          href: Greece/reckaSmes.md
+        - name: Slané
+          items:
+            - name: Řecká směs
+              href: Greece/reckaSmes.md
 - name: Dipy
+  items:
     - name: Bylinka se sladkou paprikou
       href: Dips/herbWithSweetPepper.md
