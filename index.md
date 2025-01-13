@@ -3,13 +3,17 @@ Changelog
   - 🔨 Update file paths for main dish recipes (food/toc)
   - ✨ Add Czech beef broth recipe and update table of contents (food)
   - ✨ Add new dip recipe "Bylinka se sladkou paprikou" (food)
+  - 🐛 Correct href case sensitivity in table of contents (food)
   - 🎨 Update food categories and structure in TOC (food)
+  - 🔧 update changelog
   - 🔧 update changelog
   - 🔧 update changelog
   - 🔧 update changelog
   - 🔧 Update GitHub Actions to use latest versions
   - ✨ Add email notification for documentation updates (workflow)
   - 🐛 Add sender email for documentation updates (workflows)
+  - ✨ Add step to read index.md content (workflows)
+  - 🔧 Reorganize deployment steps in main.yml (workflows)
 ## 2025-01-07
   - 🎨 Enhance ingredient list formatting. (coconut-chicken)
   - ✨ Add coconut chicken recipe under Asian dishes. (food)
