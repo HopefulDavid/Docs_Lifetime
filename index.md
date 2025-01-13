@@ -5,6 +5,7 @@ Changelog
   - ✨ Add new dip recipe "Bylinka se sladkou paprikou" (food)
   - 🎨 Update food categories and structure in TOC (food)
   - 🔧 update changelog
+  - 🔧 update changelog
   - 🔧 Update GitHub Actions to use latest versions
   - ✨ Add email notification for documentation updates (workflow)
   - 🐛 Add sender email for documentation updates (workflows)
