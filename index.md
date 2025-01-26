@@ -1,10 +1,13 @@
 Changelog
+## 2025-01-26
+  - 🔧 aktualizace seznamu příjemců e-mailu
 ## 2025-01-13
   - 🔨 Update file paths for main dish recipes (food/toc)
   - ✨ Add Czech beef broth recipe and update table of contents (food)
   - ✨ Add new dip recipe "Bylinka se sladkou paprikou" (food)
   - 🐛 Correct href case sensitivity in table of contents (food)
   - 🎨 Update food categories and structure in TOC (food)
+  - 🔧 update changelog
   - 🔧 update changelog
   - 🔧 update changelog
   - 🔧 update changelog
